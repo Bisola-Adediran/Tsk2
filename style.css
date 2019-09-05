@@ -1,0 +1,130 @@
+body{
+    background-color: grey;
+}
+
+#header{
+    background-size: cover;
+    background-color: burlywood;
+}
+
+}
+#header img{
+  display: block;
+  width: 80px;
+  height: 90px;
+  margin: auto;  
+}
+
+#header p{
+    color: blanchedalmond;
+    font: bold;
+}
+
+body{
+    background-image:url("dare.jpg");
+    color: black;
+    font-style: tahoma;
+    font: size 12;
+    image-rendering: optimizeQuality;
+}
+
+h1{
+    color: black;
+    font-style: oblique;
+    letter-spacing: 0.2em;
+    text-align: center;
+}
+
+.imgage circle{
+
+align-content: center;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
+.box-1{
+    background-color: rgb(78, 70, 70);
+    border: 5px neutral;
+    margin: auto;
+    padding: 10px;20,20,10;
+}
+
+img{}
+
+.box-2{
+    font-size: 12px;
+    color; pink;
+    background-color: rgb(75, 67, 67);
+    width: 100%;
+    border: groove;
+    text-align: center;
+}
+h1{
+    color: crimson;
+    padding: 10px;
+    background-image: url("./dare.jpg")
+}
+h2{
+    color: coral;
+    background-color:transparent;
+    padding: 5px;
+    width: 80%;
+}
+h3{
+    color: brown;
+    background-color:chocolate;
+    background-size: cover;
+    padding: 3px;
+    width: 80%
+}
+#heading2{
+    color: chocolate
+    background-color: brown;
+}
+
+.contact{
+    font-size: 20px;
+    background-image:url("./pic.png");
+    background-width: cover;
+    color: red;
+    padding-left: 150px;
+    border-radius: 15px;
+}
+
+.contact h2{
+    font: 50;
+    color:red;
+    text-align: center;
+}
+
+.my-form{
+    padding: 20px;
+}
+
+.my-form .form-group{
+    padding-bottom: 15px;
+}
+
+.my-form label{
+display: block;
+}
+.my-form input[type="text"], .my-form textarea{
+    padding: 8px;
+    width: 60%{
+}
+.my-form input[type="submit"]{
+    background-color: grey;
+    color: black;
+    padding: 110px 15px;
+    border: none;
+    hover: 
+}
+.button:hover{
+    background: red;
+}
+.block{
+    float:left;
+    width: 20%;
+}
